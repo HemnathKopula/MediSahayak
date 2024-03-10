@@ -1,4 +1,4 @@
-# About the Projext:
+# About the Project:
 This project was made as a part of the Great India HackFest 2k24. Our problem statement was:
 ### Al Assisted Tele-medicine KIOSK for Rural India
 Health care in rural India is still an unresolved area
